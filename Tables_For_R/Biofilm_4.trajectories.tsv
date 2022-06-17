@@ -1,0 +1,5 @@
+Trajectory	0	1	2	3	4	5	7	9	10	gene	genotypes	genotype
+1	0.0	0.0	0.0	0.0	0.06	0.0	0.0	0.0	0.0	FusA G604V	FusA G604V	genotype-1
+2	0.0	0.0	0.0	0.0	0.0	0.16	0.0	0.0	0.0	SbmA G254R	SbmA G254R	genotype-2
+3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.35	0.39	SbmA H161P	SbmA H161P	genotype-3
+4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.2	0.22	SbmA W111*	SbmA W111*	genotype-4

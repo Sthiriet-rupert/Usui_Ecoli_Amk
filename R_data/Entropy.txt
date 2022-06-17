@@ -1,0 +1,1411 @@
+Entropy	Domain
+0.046	Domain I
+0.046	Domain I
+0.046	Domain I
+0.046	Domain I
+0.046	Domain I
+0.046	Domain I
+0.046	Domain I
+0.046	Domain I
+0.046	Domain I
+0.046	Domain I
+0.046	Domain I
+0.046	Domain I
+0.046	Domain I
+0.046	Domain I
+0.046	Domain I
+0.046	Domain I
+0.046	Domain I
+0.046	Domain I
+0.048	Domain I
+0.044	Domain I
+0.044	Domain I
+0.044	Domain I
+0.044	Domain I
+0.044	Domain I
+0.044	Domain I
+0.044	Domain I
+0.044	Domain I
+0.044	Domain I
+0.044	Domain I
+0.046	Domain I
+0.042	Domain I
+0.042	Domain I
+0.042	Domain I
+0.042	Domain I
+0.042	Domain I
+0.042	Domain I
+0.042	Domain I
+0.042	Domain I
+0.042	Domain I
+0.042	Domain I
+0.042	Domain I
+0.042	Domain I
+0.042	Domain I
+0.042	Domain I
+0.042	Domain I
+0.042	Domain I
+0.042	Domain I
+0.042	Domain I
+0.042	Domain I
+0.035	Domain I
+0.035	Domain I
+0.035	Domain I
+0.035	Domain I
+0.035	Domain I
+0.035	Domain I
+0.035	Domain I
+0.035	Domain I
+0.035	Domain I
+0.035	Domain I
+0.035	Domain I
+0.035	Domain I
+0.035	Domain I
+0.035	Domain I
+0.039	Domain I
+0.035	Domain I
+0.035	Domain I
+0.035	Domain I
+0.035	Domain I
+0.032	Domain I
+0.036	Domain I
+0.032	Domain I
+0.032	Domain I
+0.032	Domain I
+0.032	Domain I
+0.027	Domain I
+0.027	Domain I
+0.027	Domain I
+0.025	Domain I
+0.025	Domain I
+0.029	Domain I
+0.029	Domain I
+0.029	Domain I
+0.025	Domain I
+0.033	Domain I
+0.025	Domain I
+0.025	Domain I
+0.025	Domain I
+0.025	Domain I
+0.066	Domain I
+0.025	Domain I
+0.025	Domain I
+0.025	Domain I
+0.026	Domain I
+0.022	Domain I
+0.022	Domain I
+0.022	Domain I
+0.022	Domain I
+0.022	Domain I
+0.022	Domain I
+0.022	Domain I
+0.022	Domain I
+0.022	Domain I
+0.019	Domain I
+0.019	Domain I
+0.019	Domain I
+0.019	Domain I
+0.019	Domain I
+0.019	Domain I
+0.019	Domain I
+0.019	Domain I
+0.019	Domain I
+0.019	Domain I
+0.019	Domain I
+0.019	Domain I
+0.019	Domain I
+0.019	Domain I
+0.016	Domain I
+0.016	Domain I
+0.016	Domain I
+0.016	Domain I
+0.016	Domain I
+0.016	Domain I
+0.016	Domain I
+0.016	Domain I
+0.016	Domain I
+0.016	Domain I
+0.016	Domain I
+0.016	Domain I
+0.016	Domain I
+0.014	Domain I
+0.014	Domain I
+0.014	Domain I
+0.014	Domain I
+0.014	Domain I
+0.014	Domain I
+0.014	Domain I
+0.014	Domain I
+0.014	Domain I
+0.014	Domain I
+0.014	Domain I
+0.014	Domain I
+0.014	Domain I
+0.014	Domain I
+0.018	Domain I
+0.014	Domain I
+0.014	Domain I
+0.014	Domain I
+0.011	Domain I
+0.011	Domain I
+0.015	Domain I
+0.011	Domain I
+0.011	Domain I
+0.011	Domain I
+0.011	Domain I
+0.015	Domain I
+0.015	Domain I
+0.011	Domain I
+0.011	Domain I
+0.011	Domain I
+0.022	Domain I
+0.011	Domain I
+0.011	Domain I
+0.011	Domain I
+0.011	Domain I
+0.015	Domain I
+0.015	Domain I
+0.007	Domain I
+0.007	Domain I
+0.007	Domain I
+0.007	Domain I
+0.007	Domain I
+0.007	Domain I
+0.007	Domain I
+0.007	Domain I
+0.007	Domain I
+0.007	Domain I
+0.007	Domain I
+0.016	Domain I
+0.007	Domain I
+0.007	Domain I
+0.007	Domain I
+0.011	Domain I
+0.007	Domain I
+0.007	Domain I
+0.007	Domain I
+0.007	Domain I
+0.007	Domain I
+0.004	Domain I
+0.004	Domain I
+0.004	Domain I
+0.004	Domain I
+0.004	Domain I
+0.004	Domain I
+0.004	Domain I
+0.004	Domain I
+0.004	Domain I
+0.004	Domain I
+0.008	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0.004	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0.007	Domain I
+0.004	Domain I
+0	Domain I
+0.012	Domain I
+0.004	Domain I
+0	Domain I
+0	Domain I
+0.004	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0.004	Domain I
+0	Domain I
+0.252	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0.008	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0.004	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0.004	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0.004	Domain I
+0	Domain I
+0	Domain I
+0.004	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0	Domain I
+0.004	Domain I
+0	Domain I
+0	Domain I
+0.004	Domain I
+0.004	Domain I
+0.008	Domain I
+0.004	Domain II
+0.004	Domain II
+0.004	Domain II
+0.004	Domain II
+0.004	Domain II
+0.004	Domain II
+0.004	Domain II
+0.004	Domain II
+0.008	Domain II
+0.004	Domain II
+0.008	Domain II
+0.004	Domain II
+0.004	Domain II
+0.004	Domain II
+0.153	Domain II
+0.004	Domain II
+0.004	Domain II
+0.008	Domain II
+0.004	Domain II
+0.004	Domain II
+0.016	Domain II
+0.015	Domain II
+0.004	Domain II
+0.063	Domain II
+0.004	Domain II
+0.008	Domain II
+0.008	Domain II
+0.004	Domain II
+0.004	Domain II
+0.004	Domain II
+0.004	Domain II
+0.004	Domain II
+0.004	Domain II
+0.004	Domain II
+0.004	Domain II
+0.004	Domain II
+0.004	Domain II
+0.004	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0.004	Domain II
+0	Domain II
+0.004	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0.004	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0.008	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0.004	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0.004	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0.004	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain II
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0.004	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0.004	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0.007	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0.011	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0.004	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0.004	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain III
+0	Domain IV
+0	Domain IV
+0	Domain IV
+0.004	Domain IV
+0	Domain IV
+0	Domain IV
+0.004	Domain IV
+0	Domain IV
+0	Domain IV
+0.004	Domain IV
+0	Domain IV
+0.004	Domain IV
+0	Domain IV
+0	Domain IV
+0.004	Domain IV
+0.004	Domain IV
+0	Domain IV
+0	Domain IV
+0	Domain IV
+0	Domain IV
+0	Domain IV
+0	Domain IV
+0	Domain IV
+0	Domain IV
+0	Domain IV
+0.004	Domain IV
+0.004	Domain IV
+0	Domain IV
+0	Domain IV
+0	Domain IV
+0	Domain IV
+0	Domain IV
+0	Domain IV
+0.021	Domain IV
+0	Domain IV
+0	Domain IV
+0	Domain IV
+0.004	Domain IV
+0.004	Domain IV
+0.004	Domain IV
+0.029	Domain IV
+0.004	Domain IV
+0.004	Domain IV
+0.004	Domain IV
+0.004	Domain IV
+0.004	Domain IV
+0.004	Domain IV
+0.004	Domain IV
+0.004	Domain IV
+0.004	Domain IV
+0.004	Domain IV
+0.004	Domain IV
+0.004	Domain IV
+0.004	Domain IV
+0.004	Domain IV
+0.004	Domain IV
+0.007	Domain IV
+0.007	Domain IV
+0.011	Domain IV
+0.011	Domain IV
+0.011	Domain IV
+0.011	Domain IV
+0.015	Domain IV
+0.015	Domain IV
+0.011	Domain IV
+0.011	Domain IV
+0.015	Domain IV
+0.011	Domain IV
+0.015	Domain IV
+0.011	Domain IV
+0.011	Domain IV
+0.011	Domain IV
+0.011	Domain IV
+0.011	Domain IV
+0.011	Domain IV
+0.011	Domain IV
+0.011	Domain IV
+0.011	Domain IV
+0.011	Domain IV
+0.011	Domain IV
+0.011	Domain IV
+0.011	Domain IV
+0.011	Domain IV
+0.015	Domain IV
+0.015	Domain IV
+0.011	Domain IV
+0.03	Domain IV
+0.011	Domain IV
+0.011	Domain IV
+0.011	Domain IV
+0.011	Domain IV
+0.011	Domain IV
+0.011	Domain IV
+0.011	Domain IV
+0.011	Domain IV
+0.015	Domain IV
+0.011	Domain IV
+0.011	Domain IV
+0.011	Domain IV
+0.015	Domain IV
+0.011	Domain IV
+0.011	Domain IV
+0.011	Domain IV
+0.011	Domain IV
+0.011	Domain IV
+0.014	Domain IV
+0.014	Domain IV
+0.014	Domain IV
+0.014	Domain IV
+0.018	Domain IV
+0.014	Domain IV
+0.014	Domain IV
+0.014	Domain IV
+0.014	Domain IV
+0.014	Domain IV
+0.014	Domain IV
+0.014	Domain IV
+0.014	Domain IV
+0.018	Domain IV
+0.014	Domain IV
+0.022	Domain IV
+0.014	Domain V
+0.014	Domain V
+0.014	Domain V
+0.014	Domain V
+0.014	Domain V
+0.014	Domain V
+0.014	Domain V
+0.018	Domain V
+0.014	Domain V
+0.014	Domain V
+0.014	Domain V
+0.014	Domain V
+0.014	Domain V
+0.014	Domain V
+0.014	Domain V
+0.014	Domain V
+0.014	Domain V
+0.027	Domain V
+0.014	Domain V
+0.014	Domain V
+0.014	Domain V
+0.014	Domain V
+0.014	Domain V
+0.014	Domain V
+0.014	Domain V
+0.014	Domain V
+0.014	Domain V
+0.014	Domain V
+0.014	Domain V
+0.014	Domain V
+0.014	Domain V
+0.014	Domain V
+0.018	Domain V
+0.014	Domain V
+0.018	Domain V
+0.014	Domain V
+0.014	Domain V
+0.014	Domain V
+0.014	Domain V
+0.014	Domain V
+0.014	Domain V
+0.014	Domain V
+0.014	Domain V
+0.014	Domain V
+0.018	Domain V
+0.014	Domain V
+0.014	Domain V
+0.014	Domain V
+0.014	Domain V
+0.014	Domain V
+0.016	Domain V
+0.016	Domain V
+0	Domain V
+0.019	Domain V
+0.019	Domain V
+0.019	Domain V
+0.019	Domain V
+0.019	Domain V
+0.019	Domain V
+0.019	Domain V
+0.019	Domain V
+0.019	Domain V
+0.019	Domain V
+0.019	Domain V
+0.025	Domain V
+0.025	Domain V
+0.025	Domain V
+0.025	Domain V
+0.029	Domain V
+0.025	Domain V
+0.025	Domain V
+0.029	Domain V
+0.025	Domain V
+0.025	Domain V
+0.025	Domain V
+0.027	Domain V
+0.027	Domain V
+0.027	Domain V
+0.027	Domain V
+0.031	Domain V
+0.027	Domain V
+0.027	Domain V
+0.039	Domain V
+0.027	Domain V
+0.027	Domain V
+0.027	Domain V
+0.031	Domain V
+0.063	Domain V
+0.03	Domain V
+0.037	Domain V
+0.03	Domain V
+0.03	Domain V
+0.03	Domain V
+0.034	Domain V
+0.03	Domain V
+0.046	FusA
+0.046	FusA
+0.046	FusA
+0.046	FusA
+0.046	FusA
+0.046	FusA
+0.046	FusA
+0.046	FusA
+0.046	FusA
+0.046	FusA
+0.046	FusA
+0.046	FusA
+0.046	FusA
+0.046	FusA
+0.046	FusA
+0.046	FusA
+0.046	FusA
+0.046	FusA
+0.048	FusA
+0.044	FusA
+0.044	FusA
+0.044	FusA
+0.044	FusA
+0.044	FusA
+0.044	FusA
+0.044	FusA
+0.044	FusA
+0.044	FusA
+0.044	FusA
+0.046	FusA
+0.042	FusA
+0.042	FusA
+0.042	FusA
+0.042	FusA
+0.042	FusA
+0.042	FusA
+0.042	FusA
+0.042	FusA
+0.042	FusA
+0.042	FusA
+0.042	FusA
+0.042	FusA
+0.042	FusA
+0.042	FusA
+0.042	FusA
+0.042	FusA
+0.042	FusA
+0.042	FusA
+0.042	FusA
+0.035	FusA
+0.035	FusA
+0.035	FusA
+0.035	FusA
+0.035	FusA
+0.035	FusA
+0.035	FusA
+0.035	FusA
+0.035	FusA
+0.035	FusA
+0.035	FusA
+0.035	FusA
+0.035	FusA
+0.035	FusA
+0.039	FusA
+0.035	FusA
+0.035	FusA
+0.035	FusA
+0.035	FusA
+0.032	FusA
+0.036	FusA
+0.032	FusA
+0.032	FusA
+0.032	FusA
+0.032	FusA
+0.027	FusA
+0.027	FusA
+0.027	FusA
+0.025	FusA
+0.025	FusA
+0.029	FusA
+0.029	FusA
+0.029	FusA
+0.025	FusA
+0.033	FusA
+0.025	FusA
+0.025	FusA
+0.025	FusA
+0.025	FusA
+0.066	FusA
+0.025	FusA
+0.025	FusA
+0.025	FusA
+0.026	FusA
+0.022	FusA
+0.022	FusA
+0.022	FusA
+0.022	FusA
+0.022	FusA
+0.022	FusA
+0.022	FusA
+0.022	FusA
+0.022	FusA
+0.019	FusA
+0.019	FusA
+0.019	FusA
+0.019	FusA
+0.019	FusA
+0.019	FusA
+0.019	FusA
+0.019	FusA
+0.019	FusA
+0.019	FusA
+0.019	FusA
+0.019	FusA
+0.019	FusA
+0.019	FusA
+0.016	FusA
+0.016	FusA
+0.016	FusA
+0.016	FusA
+0.016	FusA
+0.016	FusA
+0.016	FusA
+0.016	FusA
+0.016	FusA
+0.016	FusA
+0.016	FusA
+0.016	FusA
+0.016	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.018	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.011	FusA
+0.011	FusA
+0.015	FusA
+0.011	FusA
+0.011	FusA
+0.011	FusA
+0.011	FusA
+0.015	FusA
+0.015	FusA
+0.011	FusA
+0.011	FusA
+0.011	FusA
+0.022	FusA
+0.011	FusA
+0.011	FusA
+0.011	FusA
+0.011	FusA
+0.015	FusA
+0.015	FusA
+0.007	FusA
+0.007	FusA
+0.007	FusA
+0.007	FusA
+0.007	FusA
+0.007	FusA
+0.007	FusA
+0.007	FusA
+0.007	FusA
+0.007	FusA
+0.007	FusA
+0.016	FusA
+0.007	FusA
+0.007	FusA
+0.007	FusA
+0.011	FusA
+0.007	FusA
+0.007	FusA
+0.007	FusA
+0.007	FusA
+0.007	FusA
+0.004	FusA
+0.004	FusA
+0.004	FusA
+0.004	FusA
+0.004	FusA
+0.004	FusA
+0.004	FusA
+0.004	FusA
+0.004	FusA
+0.004	FusA
+0.008	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0.004	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0.007	FusA
+0.004	FusA
+0	FusA
+0.012	FusA
+0.004	FusA
+0	FusA
+0	FusA
+0.004	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0.004	FusA
+0	FusA
+0.252	FusA
+0	FusA
+0	FusA
+0	FusA
+0.008	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0.004	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0.004	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0.004	FusA
+0	FusA
+0	FusA
+0.004	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0.004	FusA
+0	FusA
+0	FusA
+0.004	FusA
+0.004	FusA
+0.008	FusA
+0.004	FusA
+0.004	FusA
+0.004	FusA
+0.004	FusA
+0.004	FusA
+0.004	FusA
+0.004	FusA
+0.004	FusA
+0.008	FusA
+0.004	FusA
+0.008	FusA
+0.004	FusA
+0.004	FusA
+0.004	FusA
+0.153	FusA
+0.004	FusA
+0.004	FusA
+0.008	FusA
+0.004	FusA
+0.004	FusA
+0.016	FusA
+0.015	FusA
+0.004	FusA
+0.063	FusA
+0.004	FusA
+0.008	FusA
+0.008	FusA
+0.004	FusA
+0.004	FusA
+0.004	FusA
+0.004	FusA
+0.004	FusA
+0.004	FusA
+0.004	FusA
+0.004	FusA
+0.004	FusA
+0.004	FusA
+0.004	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0.004	FusA
+0	FusA
+0.004	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0.004	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0.008	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0.004	FusA
+0	FusA
+0	FusA
+0	FusA
+0.004	FusA
+0	FusA
+0	FusA
+0	FusA
+0.004	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0.004	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0.004	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0.007	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0.011	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0.004	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0.004	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0.004	FusA
+0	FusA
+0	FusA
+0.004	FusA
+0	FusA
+0	FusA
+0.004	FusA
+0	FusA
+0.004	FusA
+0	FusA
+0	FusA
+0.004	FusA
+0.004	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0.004	FusA
+0.004	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0	FusA
+0.021	FusA
+0	FusA
+0	FusA
+0	FusA
+0.004	FusA
+0.004	FusA
+0.004	FusA
+0.029	FusA
+0.004	FusA
+0.004	FusA
+0.004	FusA
+0.004	FusA
+0.004	FusA
+0.004	FusA
+0.004	FusA
+0.004	FusA
+0.004	FusA
+0.004	FusA
+0.004	FusA
+0.004	FusA
+0.004	FusA
+0.004	FusA
+0.004	FusA
+0.007	FusA
+0.007	FusA
+0.011	FusA
+0.011	FusA
+0.011	FusA
+0.011	FusA
+0.015	FusA
+0.015	FusA
+0.011	FusA
+0.011	FusA
+0.015	FusA
+0.011	FusA
+0.015	FusA
+0.011	FusA
+0.011	FusA
+0.011	FusA
+0.011	FusA
+0.011	FusA
+0.011	FusA
+0.011	FusA
+0.011	FusA
+0.011	FusA
+0.011	FusA
+0.011	FusA
+0.011	FusA
+0.011	FusA
+0.011	FusA
+0.015	FusA
+0.015	FusA
+0.011	FusA
+0.03	FusA
+0.011	FusA
+0.011	FusA
+0.011	FusA
+0.011	FusA
+0.011	FusA
+0.011	FusA
+0.011	FusA
+0.011	FusA
+0.015	FusA
+0.011	FusA
+0.011	FusA
+0.011	FusA
+0.015	FusA
+0.011	FusA
+0.011	FusA
+0.011	FusA
+0.011	FusA
+0.011	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.018	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.018	FusA
+0.014	FusA
+0.022	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.018	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.027	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.018	FusA
+0.014	FusA
+0.018	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.018	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.014	FusA
+0.016	FusA
+0.016	FusA
+0	FusA
+0.019	FusA
+0.019	FusA
+0.019	FusA
+0.019	FusA
+0.019	FusA
+0.019	FusA
+0.019	FusA
+0.019	FusA
+0.019	FusA
+0.019	FusA
+0.019	FusA
+0.025	FusA
+0.025	FusA
+0.025	FusA
+0.025	FusA
+0.029	FusA
+0.025	FusA
+0.025	FusA
+0.029	FusA
+0.025	FusA
+0.025	FusA
+0.025	FusA
+0.027	FusA
+0.027	FusA
+0.027	FusA
+0.027	FusA
+0.031	FusA
+0.027	FusA
+0.027	FusA
+0.039	FusA
+0.027	FusA
+0.027	FusA
+0.027	FusA
+0.031	FusA
+0.063	FusA
+0.03	FusA
+0.037	FusA
+0.03	FusA
+0.03	FusA
+0.03	FusA
+0.034	FusA
+0.03	FusA
