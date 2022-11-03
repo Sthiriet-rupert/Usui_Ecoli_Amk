@@ -37,7 +37,7 @@ ggsave("MullerPlot_Biofilm-1.tiff",width=6,height = 5,device = "tiff",dpi = 700)
 
 
 
-
+#Colors used for the other MullerPlots in the paper
 Plk2
 palette <- c("#FF7F00","white")
 
